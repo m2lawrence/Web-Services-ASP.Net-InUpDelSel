@@ -7,4 +7,5 @@
 3. Use the ID Number to Insert, Update, Delete, and Select data from the backend database.
 
 How does this app work? 
+
 It updates a column in a table with the "column name", then Inserts the table row into the database by using the ID Number.
